@@ -1,0 +1,2 @@
+../Core/Src/HID_CDC.c:73:6:CDC_Send_Message	16	static
+../Core/Src/HID_CDC.c:77:6:writePasswordHID	24	static
